@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="hashmap-2.0.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/hashmap/2.0.4/c4647a4dbc4ee22dda129ff1c86202cf6b34c47b/hashmap-2.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/hashmap/2.0.4/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/hashmap-2.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
